@@ -22,7 +22,7 @@ body {
    width: 100%;
    border-style: solid;
    border-width: thin;
-   height: 10em;
+   height: auto;
    display: flex;
    margin: 5% 0;
    background-color: white;
@@ -83,4 +83,8 @@ h6 {
    padding: 3%;
    font-size: 2em;
    margin: auto;
+}
+
+p {
+   font-size: 1.5em;
 }
